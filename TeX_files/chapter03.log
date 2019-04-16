@@ -1,0 +1,951 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6400 64-bit) (preloaded format=xelatex 2019.4.3)  4 APR 2019 13:44
+entering extended mode
+**./chapter03.tex
+(chapter03.tex
+LaTeX2e <2017-04-15>
+Babel <3.12> and hyphenation patterns for 76 language(s) loaded.
+! Undefined control sequence.
+l.1 \chapter
+            {线性模型}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{线
+                性模型}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 线 in font nullfont!
+Missing character: There is no 性 in font nullfont!
+Missing character: There is no 模 in font nullfont!
+Missing character: There is no 型 in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--5
+[]
+ []
+
+Missing character: There is no 线 in font nullfont!
+Missing character: There is no 性 in font nullfont!
+Missing character: There is no 回 in font nullfont!
+Missing character: There is no 归 in font nullfont!
+Missing character: There is no 原 in font nullfont!
+Missing character: There is no 理 in font nullfont!
+Missing character: There is no 给 in font nullfont!
+Missing character: There is no 定 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 据 in font nullfont!
+Missing character: There is no 集 in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 线 in font nullfont!
+Missing character: There is no 性 in font nullfont!
+Missing character: There is no 回 in font nullfont!
+Missing character: There is no 归 in font nullfont!
+Missing character: There is no 试 in font nullfont!
+Missing character: There is no 图 in font nullfont!
+Missing character: There is no 学 in font nullfont!
+Missing character: There is no 得 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 线 in font nullfont!
+Missing character: There is no 性 in font nullfont!
+Missing character: There is no 模 in font nullfont!
+Missing character: There is no 型 in font nullfont!
+Missing character: There is no 以 in font nullfont!
+Missing character: There is no 尽 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 能 in font nullfont!
+Missing character: There is no 准 in font nullfont!
+Missing character: There is no 确 in font nullfont!
+Missing character: There is no 地 in font nullfont!
+Missing character: There is no 预 in font nullfont!
+Missing character: There is no 测 in font nullfont!
+Missing character: There is no 实 in font nullfont!
+Missing character: There is no 值 in font nullfont!
+Missing character: There is no 输 in font nullfont!
+Missing character: There is no 出 in font nullfont!
+Missing character: There is no 标 in font nullfont!
+Missing character: There is no 记 in font nullfont!
+Missing character: There is no ： in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 9.
+Missing character: There is no 使 in font cmr10!
+Missing character: There is no 得 in font cmr10!
+
+Overfull \hbox (33.35013pt too wide) in paragraph at lines 9--9
+ \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 ) = 
+ []
+
+
+Overfull \hbox (23.40567pt too wide) in paragraph at lines 9--9
+ \OML/cmm/m/it/10 !x[] \OT1/cmr/m/n/10 + 
+ []
+
+
+Overfull \hbox (42.0862pt too wide) in paragraph at lines 9--9
+ \OML/cmm/m/it/10 b; f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 ) \O
+MS/cmsy/m/n/10 ' 
+ []
+
+
+Overfull \hbox (8.2321pt too wide) in paragraph at lines 9--9
+ \OML/cmm/m/it/10 y[]$ 
+ []
+
+Missing character: There is no 均 in font nullfont!
+Missing character: There is no 方 in font nullfont!
+Missing character: There is no 误 in font nullfont!
+Missing character: There is no 差 in font nullfont!
+Missing character: There is no 是 in font nullfont!
+Missing character: There is no 回 in font nullfont!
+Missing character: There is no 归 in font nullfont!
+Missing character: There is no 任 in font nullfont!
+Missing character: There is no 务 in font nullfont!
+Missing character: There is no 中 in font nullfont!
+Missing character: There is no 最 in font nullfont!
+Missing character: There is no 常 in font nullfont!
+Missing character: There is no 用 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 性 in font nullfont!
+Missing character: There is no 能 in font nullfont!
+Missing character: There is no 度 in font nullfont!
+Missing character: There is no 量 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 因 in font nullfont!
+Missing character: There is no 此 in font nullfont!
+Missing character: There is no 我 in font nullfont!
+Missing character: There is no 们 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 以 in font nullfont!
+Missing character: There is no 试 in font nullfont!
+Missing character: There is no 图 in font nullfont!
+Missing character: There is no 让 in font nullfont!
+Missing character: There is no 均 in font nullfont!
+Missing character: There is no 方 in font nullfont!
+Missing character: There is no 误 in font nullfont!
+Missing character: There is no 差 in font nullfont!
+Missing character: There is no 最 in font nullfont!
+Missing character: There is no 小 in font nullfont!
+Missing character: There is no 化 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 均 in font nullfont!
+Missing character: There is no 方 in font nullfont!
+Missing character: There is no 误 in font nullfont!
+Missing character: There is no 差 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no 非 in font nullfont!
+Missing character: There is no 常 in font nullfont!
+Missing character: There is no 好 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 几 in font nullfont!
+Missing character: There is no 何 in font nullfont!
+Missing character: There is no 意 in font nullfont!
+Missing character: There is no 义 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 它 in font nullfont!
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 应 in font nullfont!
+Missing character: There is no 了 in font nullfont!
+Missing character: There is no 常 in font nullfont!
+Missing character: There is no 用 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 欧 in font nullfont!
+Missing character: There is no 式 in font nullfont!
+Missing character: There is no 距 in font nullfont!
+Missing character: There is no 离 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 在 in font nullfont!
+Missing character: There is no 线 in font nullfont!
+Missing character: There is no 性 in font nullfont!
+Missing character: There is no 回 in font nullfont!
+Missing character: There is no 归 in font nullfont!
+Missing character: There is no 中 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 最 in font nullfont!
+Missing character: There is no 小 in font nullfont!
+Missing character: There is no 二 in font nullfont!
+Missing character: There is no 乘 in font nullfont!
+Missing character: There is no 法 in font nullfont!
+Missing character: There is no 就 in font nullfont!
+Missing character: There is no 是 in font nullfont!
+Missing character: There is no 试 in font nullfont!
+Missing character: There is no 图 in font nullfont!
+Missing character: There is no 找 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 条 in font nullfont!
+Missing character: There is no 直 in font nullfont!
+Missing character: There is no 线 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 使 in font nullfont!
+Missing character: There is no 所 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no 样 in font nullfont!
+Missing character: There is no 本 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+Missing character: There is no 直 in font nullfont!
+Missing character: There is no 线 in font nullfont!
+Missing character: There is no 上 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 欧 in font nullfont!
+Missing character: There is no 式 in font nullfont!
+Missing character: There is no 距 in font nullfont!
+Missing character: There is no 离 in font nullfont!
+Missing character: There is no 之 in font nullfont!
+Missing character: There is no 和 in font nullfont!
+Missing character: There is no 最 in font nullfont!
+Missing character: There is no 小 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+Overfull \hbox (43.423pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 w[]; b[]\OT1/cmr/m/n/10 ) = 
+ []
+
+
+Overfull \hbox (111.14188pt too wide) in paragraph at lines 13--13
+ [][] [][]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 
+x[]\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 ^^@ 
+ []
+
+
+Overfull \hbox (16.60713pt too wide) in paragraph at lines 13--13
+ \OML/cmm/m/it/10 y[]\OT1/cmr/m/n/10 )[]$ 
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 14--14
+ []$\OT1/cmr/m/n/10 = 
+ []
+
+
+Overfull \hbox (141.54039pt too wide) in paragraph at lines 14--14
+ []$ 
+ []
+
+Missing character: There is no 求 in font nullfont!
+Missing character: There is no 解 in font nullfont!
+Missing character: There is no 和 in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no 使 in font nullfont!
+Missing character: There is no 得 in font nullfont!
+Missing character: There is no 方 in font nullfont!
+Missing character: There is no 程 in font nullfont!
+Missing character: There is no 最 in font nullfont!
+Missing character: There is no 小 in font nullfont!
+Missing character: There is no 化 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 过 in font nullfont!
+Missing character: There is no 程 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 称 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 线 in font nullfont!
+Missing character: There is no 性 in font nullfont!
+Missing character: There is no 回 in font nullfont!
+Missing character: There is no 归 in font nullfont!
+Missing character: There is no 模 in font nullfont!
+Missing character: There is no 型 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 最 in font nullfont!
+Missing character: There is no 小 in font nullfont!
+Missing character: There is no 二 in font nullfont!
+Missing character: There is no 乘 in font nullfont!
+Missing character: There is no 参 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 估 in font nullfont!
+Missing character: There is no 计 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+Overfull \hbox (6.58331pt too wide) in paragraph at lines 16--17
+$\OML/cmm/m/it/10 !$ 
+ []
+
+Missing character: There is no 多 in font nullfont!
+Missing character: There is no 元 in font nullfont!
+Missing character: There is no 线 in font nullfont!
+Missing character: There is no 性 in font nullfont!
+Missing character: There is no 回 in font nullfont!
+Missing character: There is no 归 in font nullfont!
+Missing character: There is no 原 in font nullfont!
+Missing character: There is no 理 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 了 in font nullfont!
+Missing character: There is no 便 in font nullfont!
+Missing character: There is no 于 in font nullfont!
+Missing character: There is no 讨 in font nullfont!
+Missing character: There is no 论 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 我 in font nullfont!
+Missing character: There is no 们 in font nullfont!
+Missing character: There is no 把 in font nullfont!
+Missing character: There is no 和 in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no 吸 in font nullfont!
+Missing character: There is no 收 in font nullfont!
+Missing character: There is no 入 in font nullfont!
+Missing character: There is no 向 in font nullfont!
+Missing character: There is no 量 in font nullfont!
+Missing character: There is no 形 in font nullfont!
+Missing character: There is no 式 in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no 相 in font nullfont!
+Missing character: There is no 应 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 把 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 据 in font nullfont!
+Missing character: There is no 集 in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no 表 in font nullfont!
+Missing character: There is no 示 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 小 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 矩 in font nullfont!
+Missing character: There is no 阵 in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 其 in font nullfont!
+Missing character: There is no 中 in font nullfont!
+Missing character: There is no 每 in font nullfont!
+Missing character: There is no 行 in font nullfont!
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 应 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 示 in font nullfont!
+Missing character: There is no 例 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 该 in font nullfont!
+Missing character: There is no 行 in font nullfont!
+Missing character: There is no 前 in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 元 in font nullfont!
+Missing character: There is no 素 in font nullfont!
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 应 in font nullfont!
+Missing character: There is no 于 in font nullfont!
+Missing character: There is no 示 in font nullfont!
+Missing character: There is no 例 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 属 in font nullfont!
+Missing character: There is no 性 in font nullfont!
+Missing character: There is no 值 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no ， in font nullfont!
+
+Overfull \hbox (23.72214pt too wide) in paragraph at lines 17--19
+\OML/cmm/m/it/10 !$$[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (39.65512pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 !\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 b\OT1/cmr
+/m/n/10 )$$\OML/cmm/m/it/10 m \OMS/cmsy/m/n/10 ^^B
+ []
+
+
+Overfull \hbox (16.87157pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 d \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (8.88892pt too wide) in paragraph at lines 17--19
+\OT1/cmr/m/n/10 1)$ 
+ []
+
+
+Overfull \hbox (21.73605pt too wide) in paragraph at lines 20--20
+ [] \OT1/cmr/m/n/10 = 
+ []
+
+
+Overfull \hbox (126.30605pt too wide) in paragraph at lines 20--20
+ []$ 
+ []
+
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 求 in font nullfont!
+Missing character: There is no 导 in font nullfont!
+Missing character: There is no 得 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+
+Overfull \hbox (6.58331pt too wide) in paragraph at lines 22--23
+$[]$ 
+ []
+
+
+Overfull \hbox (28.63853pt too wide) in paragraph at lines 24--25
+ [] \OT1/cmr/m/n/10 = 
+ []
+
+
+Overfull \hbox (47.68854pt too wide) in paragraph at lines 24--25
+ \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 X[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 X[] \OM
+S/cmsy/m/n/10 ^^@ 
+ []
+
+
+Overfull \hbox (9.1505pt too wide) in paragraph at lines 24--25
+ \OML/cmm/m/it/10 y\OT1/cmr/m/n/10 )$ 
+ []
+
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 几 in font nullfont!
+Missing character: There is no 率 in font nullfont!
+Missing character: There is no 回 in font nullfont!
+Missing character: There is no 归 in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 函 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 它 in font nullfont!
+Missing character: There is no 将 in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no 值 in font nullfont!
+Missing character: There is no 转 in font nullfont!
+Missing character: There is no 化 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 接 in font nullfont!
+Missing character: There is no 近 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 或 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no 值 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 并 in font nullfont!
+Missing character: There is no 且 in font nullfont!
+Missing character: There is no 其 in font nullfont!
+Missing character: There is no 输 in font nullfont!
+Missing character: There is no 出 in font nullfont!
+Missing character: There is no 值 in font nullfont!
+Missing character: There is no 在 in font nullfont!
+Missing character: There is no 附 in font nullfont!
+Missing character: There is no 近 in font nullfont!
+Missing character: There is no 变 in font nullfont!
+Missing character: There is no 化 in font nullfont!
+Missing character: There is no 很 in font nullfont!
+Missing character: There is no 陡 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+! LaTeX Error: Environment large undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 ^^I^^I\begin{large}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (15.64581pt too wide) in paragraph at lines 28--31
+\OML/cmm/m/it/10 z \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 28--31
+\OT1/cmr/m/n/10 0$ 
+ []
+
+
+Overfull \hbox (15.81711pt too wide) in paragraph at lines 32--32
+ \OML/cmm/m/it/10 y \OT1/cmr/m/n/10 = 
+ []
+
+
+Overfull \hbox (25.86436pt too wide) in paragraph at lines 32--32
+ []$ 
+ []
+
+
+! LaTeX Error: \begin{itemize} on input line 27 ended by \end{large}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ^^I^^I\end{large}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 将 in font nullfont!
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 几 in font nullfont!
+Missing character: There is no 率 in font nullfont!
+Missing character: There is no 函 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 代 in font nullfont!
+Missing character: There is no 入 in font nullfont!
+Missing character: There is no 得 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+
+! LaTeX Error: Environment large undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 ^^I^^I\begin{large}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (15.81711pt too wide) in paragraph at lines 38--38
+ \OML/cmm/m/it/10 y \OT1/cmr/m/n/10 = 
+ []
+
+
+Overfull \hbox (50.05734pt too wide) in paragraph at lines 38--38
+ []$ 
+ []
+
+
+! LaTeX Error: \begin{itemize} on input line 27 ended by \end{large}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 ^^I^^I\end{large}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 变 in font nullfont!
+Missing character: There is no 化 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+
+! LaTeX Error: Environment large undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ^^I^^I\begin{large}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (37.49838pt too wide) in paragraph at lines 44--44
+ [] [] \OT1/cmr/m/n/10 = 
+ []
+
+
+Overfull \hbox (26.37604pt too wide) in paragraph at lines 44--44
+ \OML/cmm/m/it/10 ![]x \OT1/cmr/m/n/10 + 
+ []
+
+
+Overfull \hbox (4.29166pt too wide) in paragraph at lines 44--44
+ \OML/cmm/m/it/10 b$ 
+ []
+
+
+! LaTeX Error: \begin{itemize} on input line 27 ended by \end{large}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ^^I^^I\end{large}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 由 in font nullfont!
+Missing character: There is no 此 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 看 in font nullfont!
+Missing character: There is no 出 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 实 in font nullfont!
+Missing character: There is no 际 in font nullfont!
+Missing character: There is no 上 in font nullfont!
+Missing character: There is no 是 in font nullfont!
+Missing character: There is no 在 in font nullfont!
+Missing character: There is no 用 in font nullfont!
+Missing character: There is no 线 in font nullfont!
+Missing character: There is no 性 in font nullfont!
+Missing character: There is no 回 in font nullfont!
+Missing character: There is no 归 in font nullfont!
+Missing character: There is no 模 in font nullfont!
+Missing character: There is no 型 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 预 in font nullfont!
+Missing character: There is no 测 in font nullfont!
+Missing character: There is no 结 in font nullfont!
+Missing character: There is no 果 in font nullfont!
+Missing character: There is no 去 in font nullfont!
+Missing character: There is no 逼 in font nullfont!
+Missing character: There is no 近 in font nullfont!
+Missing character: There is no 真 in font nullfont!
+Missing character: There is no 实 in font nullfont!
+Missing character: There is no 标 in font nullfont!
+Missing character: There is no 记 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 几 in font nullfont!
+Missing character: There is no 率 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 这 in font nullfont!
+Missing character: There is no 种 in font nullfont!
+Missing character: There is no 方 in font nullfont!
+Missing character: There is no 法 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no 很 in font nullfont!
+Missing character: There is no 多 in font nullfont!
+Missing character: There is no 优 in font nullfont!
+Missing character: There is no 点 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 例 in font nullfont!
+Missing character: There is no 如 in font nullfont!
+Missing character: There is no 它 in font nullfont!
+Missing character: There is no 是 in font nullfont!
+Missing character: There is no 直 in font nullfont!
+Missing character: There is no 接 in font nullfont!
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 分 in font nullfont!
+Missing character: There is no 类 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 能 in font nullfont!
+Missing character: There is no 性 in font nullfont!
+Missing character: There is no 进 in font nullfont!
+Missing character: There is no 行 in font nullfont!
+Missing character: There is no 建 in font nullfont!
+Missing character: There is no 模 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 无 in font nullfont!
+Missing character: There is no 需 in font nullfont!
+Missing character: There is no 事 in font nullfont!
+Missing character: There is no 先 in font nullfont!
+Missing character: There is no 假 in font nullfont!
+Missing character: There is no 设 in font nullfont!
+Missing character: There is no 分 in font nullfont!
+Missing character: There is no 布 in font nullfont!
+Missing character: There is no ； in font nullfont!
+Missing character: There is no 它 in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 是 in font nullfont!
+Missing character: There is no 仅 in font nullfont!
+Missing character: There is no 预 in font nullfont!
+Missing character: There is no 测 in font nullfont!
+Missing character: There is no 出 in font nullfont!
+Missing character: There is no 类 in font nullfont!
+Missing character: There is no 别 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 而 in font nullfont!
+Missing character: There is no 是 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 得 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+Missing character: There is no 近 in font nullfont!
+Missing character: There is no 似 in font nullfont!
+Missing character: There is no 概 in font nullfont!
+Missing character: There is no 率 in font nullfont!
+Missing character: There is no 预 in font nullfont!
+Missing character: There is no 测 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 极 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 似 in font nullfont!
+Missing character: There is no 然 in font nullfont!
+Missing character: There is no 法 in font nullfont!
+Missing character: There is no 将 in font nullfont!
+Missing character: There is no 式 in font nullfont!
+Missing character: There is no 重 in font nullfont!
+Missing character: There is no 写 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+
+! LaTeX Error: Environment large undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ^^I^^I\begin{large}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (54.66939pt too wide) in paragraph at lines 52--52
+ [] [] \OT1/cmr/m/n/10 = 
+ []
+
+
+Overfull \hbox (26.37604pt too wide) in paragraph at lines 52--52
+ \OML/cmm/m/it/10 ![]x \OT1/cmr/m/n/10 + 
+ []
+
+
+Overfull \hbox (4.29166pt too wide) in paragraph at lines 52--52
+ \OML/cmm/m/it/10 b$ 
+ []
+
+
+Overfull \hbox (24.73726pt too wide) in paragraph at lines 53--53
+ []$\OML/cmm/m/it/10 p\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 y \OT1/cmr/m/n/10 = 
+ []
+
+
+Overfull \hbox (27.93748pt too wide) in paragraph at lines 53--53
+ \OT1/cmr/m/n/10 1\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) = 
+ []
+
+
+Overfull \hbox (37.53386pt too wide) in paragraph at lines 53--53
+ []$ 
+ []
+
+
+Overfull \hbox (24.73726pt too wide) in paragraph at lines 54--54
+ []$\OML/cmm/m/it/10 p\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 y \OT1/cmr/m/n/10 = 
+ []
+
+
+Overfull \hbox (27.93748pt too wide) in paragraph at lines 54--54
+ \OT1/cmr/m/n/10 0\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) = 
+ []
+
+
+Overfull \hbox (37.53386pt too wide) in paragraph at lines 54--54
+ []$ 
+ []
+
+
+! LaTeX Error: \begin{itemize} on input line 27 ended by \end{large}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 ^^I^^I\end{large}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 于 in font nullfont!
+Missing character: There is no 是 in font nullfont!
+Missing character: There is no 我 in font nullfont!
+Missing character: There is no 们 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 通 in font nullfont!
+Missing character: There is no 过 in font nullfont!
+Missing character: There is no 极 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 似 in font nullfont!
+Missing character: There is no 然 in font nullfont!
+Missing character: There is no 法 in font nullfont!
+Missing character: There is no 来 in font nullfont!
+Missing character: There is no 估 in font nullfont!
+Missing character: There is no 计 in font nullfont!
+Missing character: There is no 和 in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 几 in font nullfont!
+Missing character: There is no 率 in font nullfont!
+Missing character: There is no 回 in font nullfont!
+Missing character: There is no 归 in font nullfont!
+Missing character: There is no 模 in font nullfont!
+Missing character: There is no 型 in font nullfont!
+Missing character: There is no 最 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 化 in font nullfont!
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 似 in font nullfont!
+Missing character: There is no 然 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 即 in font nullfont!
+Missing character: There is no 令 in font nullfont!
+Missing character: There is no 每 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 样 in font nullfont!
+Missing character: There is no 本 in font nullfont!
+Missing character: There is no 属 in font nullfont!
+Missing character: There is no 于 in font nullfont!
+Missing character: There is no 其 in font nullfont!
+Missing character: There is no 真 in font nullfont!
+Missing character: There is no 实 in font nullfont!
+Missing character: There is no 标 in font nullfont!
+Missing character: There is no 记 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 概 in font nullfont!
+Missing character: There is no 率 in font nullfont!
+Missing character: There is no 越 in font nullfont!
+Missing character: There is no 大 in font nullfont!
+Missing character: There is no 越 in font nullfont!
+Missing character: There is no 好 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+
+! LaTeX Error: Environment large undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 ^^I^^I\begin{large}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (6.58331pt too wide) in paragraph at lines 57--59
+$\OML/cmm/m/it/10 !$ 
+ []
+
+
+Overfull \hbox (36.83327pt too wide) in paragraph at lines 60--60
+ \OML/cmm/m/it/10 l\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 !; b\OT1/cmr/m/n/10 ) = 
+ []
+
+
+Overfull \hbox (88.30382pt too wide) in paragraph at lines 60--60
+ [][] [] \OML/cmm/m/it/10 p\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 y[]\OMS/cmsy/m/n/1
+0 j\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 !; b\OT1/cmr/m/n/10 )
+$ 
+ []
+
+
+Overfull \hbox (36.43398pt too wide) in paragraph at lines 61--61
+ []$\OML/cmm/m/it/10 l\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^L; b\OT1/cmr/m/n/10 )
+ = 
+ []
+
+
+Overfull \hbox (90.87688pt too wide) in paragraph at lines 61--61
+ [][] []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 y[]p[]\OT1/cmr/m/n/10 ([]; \OML/cmm/m
+/it/10 ^^L\OT1/cmr/m/n/10 ) + 
+ []
+
+
+Overfull \hbox (16.66672pt too wide) in paragraph at lines 61--61
+ \OT1/cmr/m/n/10 (1 \OMS/cmsy/m/n/10 ^^@ 
+ []
+
+
+Overfull \hbox (49.08917pt too wide) in paragraph at lines 61--61
+ \OML/cmm/m/it/10 y[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 p[]\OT1/cmr/m/n/10 ([]; 
+\OML/cmm/m/it/10 ^^L\OT1/cmr/m/n/10 )$ 
+ []
+
+Missing character: There is no 其 in font nullfont!
+Missing character: There is no 中 in font nullfont!
+Missing character: There is no , in font nullfont!
+
+Overfull \hbox (48.03757pt too wide) in paragraph at lines 62--62
+ []$\OML/cmm/m/it/10 p\OT1/cmr/m/n/10 1([]; \OML/cmm/m/it/10 ^^L\OT1/cmr/m/n/10
+ ) = 
+ []
+
+
+Overfull \hbox (33.68506pt too wide) in paragraph at lines 62--62
+ []$ 
+ []
+
+
+Overfull \hbox (48.03757pt too wide) in paragraph at lines 63--63
+ []$\OML/cmm/m/it/10 p\OT1/cmr/m/n/10 0([]; \OML/cmm/m/it/10 ^^L\OT1/cmr/m/n/10
+ ) = 
+ []
+
+
+Overfull \hbox (33.68506pt too wide) in paragraph at lines 63--63
+ []$ 
+ []
+
+Missing character: There is no 代 in font nullfont!
+Missing character: There is no 入 in font nullfont!
+Missing character: There is no 上 in font nullfont!
+Missing character: There is no 式 in font nullfont!
+Missing character: There is no 可 in font nullfont!
+Missing character: There is no 得 in font nullfont!
+Missing character: There is no , in font nullfont!
+
+Overfull \hbox (36.83327pt too wide) in paragraph at lines 64--64
+ []$\OML/cmm/m/it/10 l\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 !; b\OT1/cmr/m/n/10 ) =
+ 
+ []
+
+
+Overfull \hbox (90.05847pt too wide) in paragraph at lines 64--64
+ [][] [] []$ 
+ []
+
+
+! LaTeX Error: \begin{itemize} on input line 27 ended by \end{large}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 ^^I^^I\end{large}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> ./chapter03.tex
+                   
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 13 strings out of 427823
+ 133 string characters out of 3152282
+ 67007 words of memory out of 3000000
+ 4080 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 18i,4n,12p,140b,166s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.

@@ -1,2 +1,5 @@
 \contentsline {chapter}{\numberline {1}特征工程}{1}
 \contentsline {chapter}{\numberline {2}SVM}{3}
+\contentsline {chapter}{\numberline {3}线性模型}{7}
+\contentsline {chapter}{\numberline {4}决策树}{11}
+\contentsline {chapter}{\numberline {5}RNN}{17}
